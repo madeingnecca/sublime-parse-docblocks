@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Parse Doc Blocks",
+        "command": "parse_docblocks"
+    }
+]
